@@ -23,7 +23,7 @@ classes can be used for this problem.
 
 Program 9 • Implement the non-parametric Locally Weighted Regressionalgorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs.
 
-# ARTIFICIAL INTELLIGENCE & MACHINE LEARNING LABORATORY
+# Artificial Intelligence and Machine Learning Programs
 
 | EXP NO |       EXPERIMENT NAME       |       EXPERIMENT SOLUTION       |      OUTPUT       |
 | :----: | :-------------------------: | :-----------------------------: | :---------------: |
@@ -35,7 +35,7 @@ Program 9 • Implement the non-parametric Locally Weighted Regressionalgorithm 
 |  06.   |  NAÏVE BAYESIAN CLASSIFIER  | [LAB6][lab6]<br>[DATASET][csv3] | [OUTPUT][output6] |
 |  07.   |           K-MEANS           |          [LAB7][lab7]           | [OUTPUT][output7] |
 |  08.   |     K-NEAREST-NEIGHBOUR     |          [LAB8][lab8]           | [OUTPUT][output8] |
-|  09.   | LOCALLY WEIGHTED REGRESSION |          [LAB9][lab9]           | [OUTPUT][output9] |
+|  09.   | LOCALLY WEIGHTED REGRESSION | [LAB9][lab9]<br>[DATASET][csv4] | [OUTPUT][output9] |
 
 </details>
 
@@ -48,9 +48,10 @@ Program 9 • Implement the non-parametric Locally Weighted Regressionalgorithm 
 [lab7]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program7/main.py
 [lab8]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program8/main.py
 [lab9]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program9/main.py
-[csv1]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/CandidateElimination.csv
-[csv2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/ID3.csv
-[csv3]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/programs/NBC.csv
+[csv1]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program3/Data.csv
+[csv2]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program4/Data.csv
+[csv3]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program6/Data.csv
+[csv4]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program9/Data.csv
 [output1]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/AStar_output.txt
 [output2]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/AOStar_output.txt
 [output3]: https://github.com/Deep7k/AIML-Lab-Programs-VTU-18CSL76/blob/master/output/CandidateElimination_output.txt
