@@ -25,9 +25,7 @@
 [csv2]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program4/Data.csv
 [csv3]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program6/Data.csv
 [csv4]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program9/Data.csv
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 List of Artifical Intelligence and Machine Learning Programs included in the repository:
 
 <p align="justify"> 
