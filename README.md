@@ -4,7 +4,7 @@ Program 1 • Implement A* Search algorithm.
 
 Program 2 • Implement AO* Search algorithm.
 
-Program 3 • For a given set of training data examples stored in a .CSV file, implement and demonstrate the Candidate-Elimination algorithmto output a description of the 
+Program 3 • For a given set of training data examples stored in a .CSV file, implement and demonstrate the Candidate-Elimination algorithm to output a description of the 
 set of all hypotheses consistent with the training examples.
 
 Program 4 • Write a program to demonstrate the working of the decision tree based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this 
