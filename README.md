@@ -1,4 +1,4 @@
-# Artificial Intelligence and Machine Learning Programs
+# Artificial_Intelligence_and_Machine_Learning_Programs
 
 |    Program     |           Title of Program            |      Programming Solution       | 
 | :------------: | :-----------------------------------: | :-----------------------------: | 
