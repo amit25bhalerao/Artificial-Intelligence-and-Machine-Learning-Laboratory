@@ -1,4 +1,4 @@
-# Artificial_Intelligence_and_Machine_Learning_Programs
+# Artificial_Intelligence_and_Machine_Learning_Laboratory_Programs
 
 |    Program     |           Title of Program            |      Programming Solution       | 
 | :------------: | :-----------------------------------: | :-----------------------------: | 
@@ -28,7 +28,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-List of Artifical Intelligence and Machine Learning Programs included in the repository:
+List of Artifical Intelligence and Machine Learning Laboratory Programs included in the repository:
 
 <p align="justify"> 
 Program 1 • Implement A* Search algorithm.
