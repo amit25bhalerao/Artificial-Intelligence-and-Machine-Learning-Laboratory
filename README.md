@@ -1,4 +1,4 @@
-# Artificial_Intelligence_and_Machine_Learning_Laboratory_Programs
+# Artifical Intelligence and Machine Learning Laboratory Programs
 
 |    Program     |           Title of Program            |      Programming Solution       | 
 | :------------: | :-----------------------------------: | :-----------------------------: | 
