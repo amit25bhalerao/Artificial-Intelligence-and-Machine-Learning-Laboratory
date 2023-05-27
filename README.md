@@ -1,4 +1,18 @@
-# Artifical Intelligence and Machine Learning Laboratory Programs
+## Artificial Intelligence and Machine Learning Laboratory Programs
+
+Welcome to the Artificial Intelligence and Machine Learning Laboratory Programs repository. This repository contains a collection of programs developed for the Artificial Intelligence and Machine Learning Laboratory course. These programs aim to provide practical implementation and understanding of various algorithms and concepts in artificial intelligence and machine learning.
+
+### Table of Contents
+
+1. Program 1: A\* Search Algorithm
+2. Program 2: AO\* Search Algorithm
+3. Program 3: Candidate Elimination Algorithm
+4. Program 4: Iterative Dichotomiser 3 Algorithm
+5. Program 5: Back Propagation Algorithm
+6. Program 6: Naïve Bayesian Classifier
+7. Program 7: K-Means Algorithm Vs. EM Algorithm
+8. Program 8: K-Nearest Neighbour Algorithm
+9. Program 9: Locally Weighted Regression Algorithm
 
 |    Program     |           Title of Program            |      Programming Solution       | 
 | :------------: | :-----------------------------------: | :-----------------------------: | 
@@ -26,44 +40,21 @@
 [csv3]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program6/Data.csv
 [csv4]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program9/Data.csv
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-List of Artifical Intelligence and Machine Learning Laboratory Programs included in the repository:
+### Usage
 
-<p align="justify"> 
-Program 1 • Implement A* Search algorithm.
-</p>
+Each program in this repository is accessible through the provided links. The programming solutions are implemented in languages like Python or Java, depending on the specific program. Additionally, some programs involve the use of datasets, which are also provided in the repository.
 
-<p align="justify"> 
-Program 2 • Implement AO* Search algorithm.
-</p>
+To use the programs, navigate to the desired program's directory and access the corresponding source code and dataset, if applicable. The programs may require specific libraries or frameworks to run successfully. Make sure to install the necessary dependencies and follow any instructions mentioned in the program's documentation.
 
-<p align="justify"> 
-Program 3 • For a given set of training data examples stored in a .CSV file, implement and demonstrate the Candidate-Elimination algorithm to output a description of the set of all hypotheses consistent with the training examples.
-</p>
+### Contribution
 
-<p align="justify"> 
-Program 4 • Write a program to demonstrate the working of the decision tree based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample.
-</p>
+Contributions to this repository are encouraged. If you have any improvements, bug fixes, or additional programs related to artificial intelligence and machine learning, feel free to create a pull request. Ensure that your contributions align with the repository's guidelines and maintain coding standards.
 
-<p align="justify"> 
-Program 5 • Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.
-</p>
+### License and Disclaimer
 
-<p align="justify"> 
-Program 6 • Write a program to implement the naïve Bayesian classifier for a sample training data set stored as a .CSV file. Compute the accuracy of the classifier, 
-considering few test data sets.
-</p>
+The programs in this repository are provided under the [MIT License](https://opensource.org/licenses/MIT). However, please note that while the programs have been tested, they are provided as-is, without any warranty. The repository owner and contributors will not be liable for any damages or losses arising from the use of these programs.
 
-<p align="justify"> 
-Program 7 • Apply EM algorithm to cluster a set of data stored in a .CSV file. Use the same data set for clustering using k-Means algorithm. Compare the results of these two algorithms and comment on the quality of clustering. You can add Java/Python ML library classes/API in the program.
-</p>
+It is recommended to use these programs for learning purposes and to verify their functionality in a controlled environment before applying them to production or real-world applications. Additionally, ensure that you comply with any licenses or restrictions associated with the datasets used in the programs.
 
-<p align="justify"> 
-Program 8 • Write a program to implement k-Nearest Neighbour algorithm to classify the iris data set. Print both correct and wrong predictions. Java/Python ML library 
-classes can be used for this problem.
-</p>
-
-<p align="justify"> 
-Program 9 • Implement the non-parametric Locally Weighted Regressionalgorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs.
-</p>
+Please be mindful of ethical considerations and adhere to proper usage and legal requirements when applying these algorithms and concepts in real-world scenarios.
